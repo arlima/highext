@@ -1,0 +1,45 @@
+{
+  "source_file": "sample.pdf",
+  "source_path": "/absolute/path/to/sample.pdf",
+  "extraction_date": "2026-01-31T21:00:00Z",
+  "total_pages": 5,
+  "total_highlights": 4,
+  "highlights": [
+    {
+      "page": 1,
+      "text": "This is an important concept that needs to be highlighted",
+      "color": [1.0, 1.0, 0.0],
+      "color_name": "yellow",
+      "rect": [100.5, 200.3, 450.7, 220.8],
+      "author": "John Doe",
+      "created": "D:20260115103000"
+    },
+    {
+      "page": 2,
+      "text": "Key findings from the research study",
+      "color": [0.0, 1.0, 0.0],
+      "color_name": "green",
+      "rect": [75.0, 350.0, 500.0, 370.0],
+      "author": null,
+      "created": null
+    },
+    {
+      "page": 3,
+      "text": "Critical error in the methodology",
+      "color": [1.0, 0.0, 0.0],
+      "color_name": "red",
+      "rect": [50.0, 450.0, 400.0, 470.0],
+      "author": "Jane Smith",
+      "created": "D:20260120143000"
+    },
+    {
+      "page": 5,
+      "text": "Conclusion and final thoughts on the matter",
+      "color": [1.0, 0.5, 0.0],
+      "color_name": "orange",
+      "rect": [100.0, 600.0, 480.0, 620.0],
+      "author": null,
+      "created": null
+    }
+  ]
+}
